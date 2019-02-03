@@ -32,6 +32,74 @@ Tracking method once is *MultiObject* box tracking, this allows the user to pred
 
 ## Usage:
 
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/1.PNG"/>
+</p>
+TEST
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/2.PNG"/>
+</p>
+TEST
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/3.PNG"/>
+</p>
+
+### POINT TRACKER:
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/point/p1.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/point/p2.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/point/p3Motion.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/point/p3Multipoint.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/point/p3Usepoint.PNG"/>
+</p>
+
+### OBJECT TRACKER:
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o1.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o2.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o3.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o4Multi.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o4Multidrag.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o4Multirunning.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o4Middrag.PNG"/>
+</p>
+
+ <p align="center">
+  <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o4Midrunning.PNG"/>
+</p>
+
 do not overwrite
 
 ## Authors and acknowledgment:
