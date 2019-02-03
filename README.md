@@ -30,10 +30,11 @@ Tracking method once is *MultiObject* box tracking, this allows the user to pred
 
 ## Installation:
 
-<details><summary>CLICK ME</summary>
-<p>
 
 ## Usage:
+
+<details><summary>Click here for screenshot walkthrough</summary>
+<p>
 
  <p align="center">
   <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/1.PNG"/>
