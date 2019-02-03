@@ -30,6 +30,9 @@ Tracking method once is *MultiObject* box tracking, this allows the user to pred
 
 ## Installation:
 
+<details><summary>CLICK ME</summary>
+<p>
+
 ## Usage:
 
  <p align="center">
@@ -100,7 +103,8 @@ TEST
   <img src="http://richardsondaniel.co.uk/EggDrop/TrackerScreenshots/object/o4Midrunning.PNG"/>
 </p>
 
-do not overwrite
+</p>
+</details>
 
 ## Authors and acknowledgment:
 
