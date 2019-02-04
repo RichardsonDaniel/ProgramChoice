@@ -1,5 +1,5 @@
 
-  
+
  <p align="center">
   <img src="http://richardsondaniel.co.uk/KidsApp/img/english/animals/mouse.png"/>
 </p>
@@ -26,11 +26,36 @@ Tracking mode one is *MultiObject* box tracking, this allows the user to predefi
 
 ## Files:
 
-### Dependencies: 
+[](https://emojipedia.org/file-folder/)
+##### - 📁ProgramChoice
+###### ProgramChoice is the folder containing the solution file and source files for the choice program.
 
+[](https://emojipedia.org/file-folder/)
+##### - 📁ProgramChoiceP
+###### ProgramChoiceP is the folder containing portable executable for this program and should also hold the portble verison of PointTrakcer and ObjecTracker from which it runs. (See dependencies)
+[](https://emojipedia.org/page-facing-up/)
+##### - 📄 License.txt
+###### Liscense is a text file holding the licensing information on the current project, currently  [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[](https://emojipedia.org/page-facing-up/)
+##### - 📄 README.txt
+###### ReadME is the document you are curenty reading holding usage and general information.
+
+
+
+### Dependencies: 
+The source code on this project is meant as a link between two tracking types, as such the portable version of both [PointTracker](https://github.com/RichardsonDaniel/PointTracker) and [ObjectTracker](https://github.com/RichardsonDaniel/ObjectTracker) (folders denoted with a P) is required in the main directory with the .exe for this program to run. If you require a single one of these tracker types but not the other you can visit their respective GitHub pages for their portable versions.
 
 ## Portable Usage:
 
+ 1. Load application
+ 2. Choose trakcer type, Point or Object
+ 3. Load in your video file, either drag onto terminal window or load from repo (video folder)
+ 4. Choose your tracker method, Point has three methods and Object has two
+ 5. Let the tracker run through the video sequence until you choose to stop it or the video ends
+ 6. The terminal and supporting windows will close when complete
+ 7. Gather your output CSV and processed frames from the OUTPUT folder. Beware to take out previous test files before running again as these will be overwritten
+
+&nbsp;
 <details><summary>Click here for screenshot walkthrough if you wish to use this on your own videos.</summary>
 <p>
 
@@ -132,8 +157,13 @@ The tracker will then track the subjects location in relation to the centre of t
 </p>
 </details>
 
-## Authors and acknowledgment:
+## Author:
+[Daniel Richardson](github.com/RichardsonDaniel): richardson.daniel@hotmail.co.uk
+
 
 ## License:
 
  [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) © [Daniel Richardson](github.com/RichardsonDaniel)
+
+
+
