@@ -7,7 +7,7 @@
 
 #  <p align="center"> ProgramChoice</p>
 
-<p align="center">"Simple program to let users choose between the two trackers -  developed for [IISER (Indian Institutes of Science Education and Research)](http://www.iiserpune.ac.in/)"</p>
+<p align="center">"Simple program to let users choose between the two trackers -  developed for IISER (Indian Institutes of Science Education and Research)"</p>
 
 # 
 
