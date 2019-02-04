@@ -135,3 +135,5 @@ The tracker will then track the subjects location in relation to the centre of t
 ## Authors and acknowledgment:
 
 ## License:
+
+ [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) © [Daniel Richardson](github.com/RichardsonDaniel)
