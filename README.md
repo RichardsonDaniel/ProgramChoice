@@ -6,7 +6,11 @@
 
 
 #  <p align="center"> ProgramChoice</p>
-"Simple program to let users choose between the two trackers -  developed for IISER (Indian Institutes of Science Education and Research)"
+
+<p align="center">"Simple program to let users choose between the two trackers -  developed for IISER (Indian Institutes of Science Education and Research)"</p>
+
+# 
+
 
 This program is merely a basic interface to allow a user to choose between the two underlying programs [PointTracker](https://github.com/RichardsonDaniel/PointTracker) and [ObjectTracker](https://github.com/RichardsonDaniel/ObjectTracker). Both currently under private repos as they are still being developed, major updates will be pushed here.
 
@@ -38,7 +42,7 @@ Tracking mode one is *MultiObject* box tracking, this allows the user to predefi
 ###### Liscense is a text file holding the licensing information on the current project, currently  [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [](https://emojipedia.org/page-facing-up/)
 ##### - 📄 README.txt
-###### ReadME is the document you are curenty reading holding usage and general information.
+###### ReadME is the document you are currently reading holding usage and general information.
 
 
 
