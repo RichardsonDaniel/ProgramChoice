@@ -7,12 +7,12 @@
 
 #  <p align="center"> ProgramChoice</p>
 
-<p align="center">"Simple program to let users choose between the two trackers -  developed for IISER (Indian Institutes of Science Education and Research)"</p>
+<p align="center">"Program to let users choose between the two trackers -  developed for IISER (Indian Institutes of Science Education and Research)"</p>
 
 # 
 
 
-This program is merely a basic interface to allow a user to choose between the two underlying programs [PointTracker](https://github.com/RichardsonDaniel/PointTracker) and [ObjectTracker](https://github.com/RichardsonDaniel/ObjectTracker). Both currently under private repos as they are still being developed, major updates will be pushed here.
+This program is a basic interface to allow a user to choose between the two underlying programs [PointTracker](https://github.com/RichardsonDaniel/PointTracker) and [ObjectTracker](https://github.com/RichardsonDaniel/ObjectTracker). Both currently under private repos as they are still being developed, major updates will be pushed here.
 
  -  **PointTracker** is a optical flow solution for tracking mouse muscle movements through pre-recorded videos it includes three distinct modes of tracking; *Multipoint* (base set 1000 points) optical flow upon a scene, *UserPoint* optical flow with user positioning of upto 30 points and *MotionTrack* which tracks the source of motion within the scene and draw its path. These each will output a coordinate (X:Y relating to pixel position) CSV file and a folder containing the post processed frames of the video.
  
