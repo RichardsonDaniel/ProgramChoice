@@ -103,7 +103,7 @@ VOID startup(LPCTSTR lpApplicationName)
 
 int main(int argc, char** argv) {
 
-	slow_print(Fishing, 1);
+	std::cout << Fishing;
 	slow_print(Openmessage, 3);
 	std::cin >> programChoice;
 
